@@ -1,3 +1,4 @@
 # okinawa-design-idea
-## index.html は　PC
-## index1.html は　スマホ
+##ランディングページ
+### index.htmlは　PC
+### index1.htmlは　スマホ
